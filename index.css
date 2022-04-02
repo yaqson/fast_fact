@@ -1,4 +1,33 @@
 *{
     padding: 0%;
     margin: 0%;
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+}
+.priviledge{
+    background-color: rgb(249, 252, 94);
+    display: flex;
+    justify-content: space-between;
+    padding:1em;
+}
+nav{
+
+    padding-top: 30px;
+    padding-right: 25px;
+}
+.up,.down,.left,.right{
+    padding: 18px;
+    color: black;
+}
+.up:hover{
+    color: red;
+}
+.down:hover{
+    color: red;
+}
+.left:hover{
+    color: red;
+}
+.right:hover{
+    color: red;
 }
