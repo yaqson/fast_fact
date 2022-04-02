@@ -31,3 +31,10 @@ nav{
 .right:hover{
     color: red;
 }
+.btn{
+    width: 100px;
+    height: 70px;
+    color: black;
+    border-radius: 18px;
+    background-color: rgb(240, 199, 65);
+}
